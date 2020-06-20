@@ -68,6 +68,7 @@ In addition to cleaning up `file:`, adding these schemes would allow for some in
 - `env:` could be process-specific. The user no longer needs to see executables that they did not directly install
 - `config:` could share user configuration across machines
 - `secret:` could be stored on an encrypted, external thumb drive
+- `env:`, `asset:`, and `config:` could be declaratively generated
 
 
 ## Compatibility layer
